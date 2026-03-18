@@ -1,4 +1,4 @@
-# t_pong_pages.github.io
+# t_pons_pages.github.io
 <!-- 
 :::note info
 試験中。信用するな！
